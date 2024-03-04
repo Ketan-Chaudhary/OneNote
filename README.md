@@ -1,6 +1,6 @@
-# NoteKeep
+# OneNote
 
-NoteKeep is a simple and elegant notes keeping website that allows users to effortlessly jot down their thoughts, ideas, and to-do lists. Built using HTML, CSS, and JavaScript, NoteKeep leverages the power of DOM manipulation to provide a smooth and intuitive user experience. Whether you're organizing your daily tasks, brainstorming new concepts, or simply capturing fleeting moments of inspiration, NoteKeep is your go-to digital notebook.
+OneNote is a simple and elegant notes keeping website that allows users to effortlessly jot down their thoughts, ideas, and to-do lists. Built using HTML, CSS, and JavaScript, NoteKeep leverages the power of DOM manipulation to provide a smooth and intuitive user experience. Whether you're organizing your daily tasks, brainstorming new concepts, or simply capturing fleeting moments of inspiration, NoteKeep is your go-to digital notebook.
 
 ## Features
 - **Intuitive Interface**: A clean and user-friendly interface designed for seamless note-taking.
@@ -30,4 +30,4 @@ Contributions to NoteKeep are welcome! If you have ideas for new features, bug f
 
 ---
 
-*NoteKeep - Keeping your thoughts in sync with your digital world.*
+*OneNote - Keeping your thoughts in sync with your digital world.*
