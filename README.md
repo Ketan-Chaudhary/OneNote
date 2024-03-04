@@ -13,8 +13,7 @@ OneNote is a simple and elegant notes keeping website that allows users to effor
 To get started with NoteKeep, simply clone this repository to your local machine and open the `index.html` file in your preferred web browser. You can then start adding notes, editing them, and deleting them as needed.
 
 ```bash
-git clone https://github.com/your-username/notekeep.git
-cd notekeep
+https://github.com/Ketan-Chaudhary/OneNote.git
 ```
 
 ## Usage
