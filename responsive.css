@@ -1,0 +1,9 @@
+@media only screen and (max-width: 768px) {
+    .input-box {
+        max-width: 85%;
+    }
+
+    .input-box img {
+        width: 33px;
+    }
+}

@@ -66,6 +66,7 @@ btn.addEventListener("click", () => {
     img.src = "/assests/delete.png";
     notesContainer.appendChild(inputBox).appendChild(img);
     updateStorage(); // Update storage when adding new note
+    
 });
 
 // Event delegation for handling delete and content edit
